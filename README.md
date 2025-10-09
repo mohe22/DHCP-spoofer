@@ -22,8 +22,7 @@ The tool works by listening for DHCP `DISCOVER` packets from a specific target. 
 
 ## Learn More & See It in Action
 
-*   **Blog Post:** For a detailed breakdown of the code, the attack theory, and defense mechanisms, you can [read the full blog post here]((https://portfolio-three-alpha-27.vercel.app/blogs/dhcp-spoofer)).
+*   **Blog Post:** For a detailed breakdown of the code, the attack theory, and defense mechanisms, you can [read the full blog post here](https://portfolio-three-alpha-27.vercel.app/blogs/dhcp-spoofer ).
 
 *   **Demo Video:** Watch a live demonstration of the attack on YouTube.
     *   **[Watch Demo](https://www.youtube.com/watch?v=Gr-7yTVQwCM )**
-
