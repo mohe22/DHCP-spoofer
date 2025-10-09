@@ -16,7 +16,7 @@ The tool works by listening for DHCP `DISCOVER` packets from a specific target. 
 This project requires `g++` and the `libpcap` library. You can compile the project using the following command:
 
 ```bash
-g++ main.cpp parser.cpp poison.cpp -o dhcp -lpcap
+g++ main.cpp parser.cpp poison.cpp ./include/logger.hpp -o dhcp -lpcap 
 ```
 ## To-Do
 
